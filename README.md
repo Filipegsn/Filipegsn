@@ -11,9 +11,9 @@
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Filipegsn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filipegsn&&layout=compact&hide=shell&theme=dark"/>
 </div>
-  
- ##
+
  ### Entre em contato comigo:
+ ##
   
 <div align="center">  
   <a href="mailto:filipegsnascimento@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
