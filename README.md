@@ -1,6 +1,6 @@
 ### Olá Mundo!👋 Eu sou o Filipe
 
-- 🎓 Graduando em Sistemas de informação, atualmente no 8º período 
+- 🎓 Graduando em Sistemas de informação, atualmente no último período, fazendo meu TCC (torçam por mim🙏).
 - 🔭 Hoje trabalho com suporte ao usuário e manutenção de computadores
 - 🌱 Estudando JavaScript
 - 🔎 Focado em me tornar um desenvolvedor Front-End
