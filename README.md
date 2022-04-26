@@ -1,4 +1,4 @@
-### Olá Mundo!👋 Eu sou o Filipe
+## Olá Mundo!👋 Eu sou o Filipe
 
 - 🎓 Graduando em Sistemas de informação, atualmente no último período, fazendo meu TCC (torçam por mim🙏).
 - 🔭 Hoje trabalho com suporte ao usuário e manutenção de computadores
@@ -12,7 +12,7 @@
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filipegsn&&layout=compact&hide=shell&theme=dark"/>
 </div>
 
- ### Entre em contato comigo:
+ ## Entre em contato comigo:
  ##
   
 <div align="center">  
